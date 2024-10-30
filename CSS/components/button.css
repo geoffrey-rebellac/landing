@@ -1,0 +1,10 @@
+ .btn-blue {
+    background-color: orange;  /* Une couleur plus sombre */
+    padding: 10px 15px;  /* Ajustement du padding */
+    border-radius: 4px;
+    color: white;
+    font-weight: normal;  /* Moins accentué */
+    font-family: 'Roboto', sans-serif;
+    text-align: center;  /* Centrer le texte */
+    text-decoration: none;  /* Pas de soulignement */
+} 
